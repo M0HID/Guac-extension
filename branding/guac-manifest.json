@@ -1,8 +1,8 @@
 {
 
         "guacamoleVersion" : "*",
-        "name" : "Tempname",
-        "namespace" : "tempnamespace",
+        "name" : "M0hidlabs",
+        "namespace" : "M0hidlabs",
         "translations" : [ 
 		"translations/en.json"
 	 ],
